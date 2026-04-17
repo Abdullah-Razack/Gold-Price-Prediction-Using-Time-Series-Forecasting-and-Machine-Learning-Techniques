@@ -1,0 +1,2 @@
+# Gold-Price-Prediction-Using-Time-Series-Forecasting-and-Machine-Learning-Techniques
+Gold price prediction using time series and machine learning techniques. The project uses Yahoo Finance data (2010–2024) and applies preprocessing, feature engineering, and models like ARIMA, SARIMA, and Random Forest. Results show SARIMA performs best, capturing trend and seasonality effectively for accurate forecasting.
